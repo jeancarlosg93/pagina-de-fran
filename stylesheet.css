@@ -1,0 +1,38 @@
+body {
+    padding: 50px;
+    margin: 02%;
+    background: url(img/background1.jpg);
+    background-attachment: fixed;
+}
+
+#title {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+#div1 {
+    padding: 10px;
+    text-align: justify;
+    width: 800px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+#siguiente {
+    float: right;
+}
+h1 {
+    font-family: calibri;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
