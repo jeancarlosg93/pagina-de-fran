@@ -6,17 +6,9 @@
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
-    <ul class="nav">
-            <li><a href="clasificacion.html">Clasificacion</a></li>
-            <li><a href="proceso.html">Proceso</a></li>
-            <li><a href="programacion.html">Programacion</a></li>
-            <li><a href="sistema.html">Sistema</a></li>
-            <li><a href="aplicacion.html">Aplicacion</a></li>
-            <li><a href="mobil.html">Ej. Sistemas mobiles</a>  </li>
-        </ul>
     <div id="title"><h1>Software</h1></div>
     <div id="div1">
-                  <div class="container">
+           <div class="container">
         <p>Se conoce como software al equipo lógico o soporte lógico de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware.</p>
 
         <p>Los componentes lógicos incluyen, entre muchos otros, las aplicaciones informáticas, tales como el procesador de texto, que permite al usuario realizar todas las tareas concernientes a la edición de textos; el llamado software de sistema, tal como el sistema operativo, que básicamente permite al resto de los programas funcionar adecuadamente, facilitando también la interacción entre los componentes físicos y el resto de las aplicaciones, y proporcionando una interfaz con el usuario.</p>
@@ -24,12 +16,20 @@
         <p>El anglicismo software es el más ampliamente difundido al referirse a este concepto, especialmente en la jerga técnica; en tanto que el término sinónimo «logicial», derivado del término francés logiciel, es utilizado mayormente en países y zonas de influencia francesa. Su abreviatura es Sw.</p>
 
         <p>Software, es una palabra proveniente del inglés, que en español no posee una traducción adecuada al contexto, por lo cual se la utiliza asiduamente sin traducir y así fue admitida por la Real Academia Española (RAE). Aunque puede no ser estrictamente lo mismo, suele sustituirse por expresiones tales como programas (informáticos) o aplicaciones (informáticas) o soportes lógicos.</p>
-       </div>
-
-
+         <ul>
+            <li><a href="clasificacion.html">Clasificacion</a></li>
+            <li><a href="proceso.html">Proceso</a></li>
+            <li><a href="programacion.html">Programacion</a></li>
+            <li><a href="sistema.html">Sistema</a></li>
+            <li><a href="aplicacion.html">Aplicacion</a></li>
+            <li><a href="mobil.html">Ej. Sistemas mobiles</a>  </li>
+        </ul>
+        </div>
+        
+       
          <a class="siguiente" href="clasificacion.html">Clasificacion de Software</a>
 
-
+    
       </div>
 </body>
 </html>

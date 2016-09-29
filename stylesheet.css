@@ -62,7 +62,7 @@ a:visited {
 }
 
 a:hover {
-    color: green;
+    color: #0093ff;
 }
 
 a:active {
@@ -91,3 +91,28 @@ h3 {
     overflow: auto;
     padding: 1px;
 }
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-family: monospace;
+    font-size: 12px;
+}
+.nav li{
+    float: left;
+}
+.nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #111;
+}
+
