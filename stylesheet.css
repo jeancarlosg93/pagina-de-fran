@@ -31,11 +31,12 @@ body {
     content: "»";}
 .anterior {
     float: left;
-    text-decoration: bold;
+    font-weight: 900;
     font-family: calibri;
 }
 .anterior:before{content: "«";}
 h1 {
+
     font-family: monospace;
 }
 
