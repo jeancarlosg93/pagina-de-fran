@@ -22,9 +22,19 @@ body {
     font-size: 18px;
 }
 
-#siguiente {
+.siguiente {
     float: right;
+    font-family: calibri;
+    font-weight: 900;
 }
+.siguiente:after{
+    content: "»";}
+.anterior {
+    float: left;
+    text-decoration: bold;
+    font-family: calibri;
+}
+.anterior:before{content: "«";}
 h1 {
     font-family: monospace;
 }
@@ -33,9 +43,12 @@ p {
     font-family: sans-serif;
 }
 
-a {
-    text-decoration: none;
-}
+    a:link { color: black; }
+    a:visited:hover{color:#0093ff}
+    a:visited{color: #2a2a2a;}
+    a:hover { color: green; }
+    a:active { color: gray; }
+
 
 img {
     height: 400px;
