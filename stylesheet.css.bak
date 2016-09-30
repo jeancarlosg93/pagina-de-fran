@@ -5,7 +5,7 @@ body {
 }
 
 #title {
-    width: 400px;
+    width: 200px;
     margin: 0 auto;
     text-align: center;
     background-color: black;
@@ -97,9 +97,7 @@ h3 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
-    font-family: monospace;
-    font-size: 12px;
+background-color: #333;
 }
 .nav li{
     float: left;
@@ -108,11 +106,7 @@ h3 {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    padding: 14px 16px
 }
 
-.nav li a:hover {
-    background-color: #111;
-}
 
